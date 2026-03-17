@@ -1,4 +1,5 @@
 Validador e Gerador de CPF
+
 Projeto simples em Python para validar a lógica de dígitos verificadores de CPFs brasileiros.
 
 Como executar:
